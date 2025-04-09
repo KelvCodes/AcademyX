@@ -1,2 +1,2 @@
 # AcademyX
-An AI-POWE
+An AI-POWER
