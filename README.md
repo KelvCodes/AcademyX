@@ -1,2 +1,2 @@
 # AcademyX
-An AI-POWERED 
+An AI-POWERED L
