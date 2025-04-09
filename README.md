@@ -1,2 +1,2 @@
 # AcademyX
-A Lear
+A Lea
