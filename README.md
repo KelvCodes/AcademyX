@@ -1,2 +1,2 @@
 # AcademyX
-A Lea
+A Le
