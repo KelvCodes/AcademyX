@@ -1,2 +1,2 @@
 # AcademyX
-A Learning platform AI-
+A Learning platform AI
