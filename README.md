@@ -1,2 +1,2 @@
 # AcademyX
-An AI-PO
+An AI-POW
