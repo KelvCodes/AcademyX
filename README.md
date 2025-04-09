@@ -1,2 +1,2 @@
 # AcademyX
-An AI-POWERE
+An AI-POWERER
