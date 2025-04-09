@@ -1,2 +1,2 @@
 # AcademyX
-A Learning platf
+A Learning plat
