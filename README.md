@@ -1,2 +1,2 @@
 # AcademyX
-A Learning plat
+A Learning pla
