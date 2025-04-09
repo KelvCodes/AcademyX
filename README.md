@@ -1,2 +1,2 @@
 # AcademyX
-A Learning platfo
+A Learning platf
