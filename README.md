@@ -1,2 +1,2 @@
 # AcademyX
-A Learning platform AI-POWER
+A Learning platform AI-POWE
