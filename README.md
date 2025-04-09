@@ -1,2 +1,2 @@
 # AcademyX
-An AI-POWERED LE
+An AI-POWERED LEA
