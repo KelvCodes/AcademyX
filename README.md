@@ -1,2 +1,2 @@
 # AcademyX
-An A
+An AI
